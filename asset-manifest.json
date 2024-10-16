@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rajkumarv07/medicine-reminder-app.git/static/css/main.e6c13ad2.css",
-    "main.js": "/rajkumarv07/medicine-reminder-app.git/static/js/main.05fcb2e2.js",
-    "static/js/453.80efc53e.chunk.js": "/rajkumarv07/medicine-reminder-app.git/static/js/453.80efc53e.chunk.js",
-    "index.html": "/rajkumarv07/medicine-reminder-app.git/index.html",
-    "main.e6c13ad2.css.map": "/rajkumarv07/medicine-reminder-app.git/static/css/main.e6c13ad2.css.map",
-    "main.05fcb2e2.js.map": "/rajkumarv07/medicine-reminder-app.git/static/js/main.05fcb2e2.js.map",
-    "453.80efc53e.chunk.js.map": "/rajkumarv07/medicine-reminder-app.git/static/js/453.80efc53e.chunk.js.map"
+    "main.css": "/medicine-reminder-app/static/css/main.e6c13ad2.css",
+    "main.js": "/medicine-reminder-app/static/js/main.f6a0a4de.js",
+    "static/js/453.80efc53e.chunk.js": "/medicine-reminder-app/static/js/453.80efc53e.chunk.js",
+    "index.html": "/medicine-reminder-app/index.html",
+    "main.e6c13ad2.css.map": "/medicine-reminder-app/static/css/main.e6c13ad2.css.map",
+    "main.f6a0a4de.js.map": "/medicine-reminder-app/static/js/main.f6a0a4de.js.map",
+    "453.80efc53e.chunk.js.map": "/medicine-reminder-app/static/js/453.80efc53e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.05fcb2e2.js"
+    "static/js/main.f6a0a4de.js"
   ]
 }
